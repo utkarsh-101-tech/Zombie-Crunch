@@ -154,9 +154,9 @@ shotSet=0;
         shotSet=0;
     }     
     if(playingLevel===6 &&shotSet!==0){        
-        shots=50;
-        maxZombies=1;
-        maxBats=0;
+        shots=60;
+        maxZombies=8;
+        maxBats=10;
         shotSet=0;
     }             
         background(bg);
