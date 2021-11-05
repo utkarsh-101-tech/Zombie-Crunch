@@ -29,8 +29,9 @@ class Zombie {
     noFill();
     strokeWeight(3);
     stroke("black");   
+    rectMode(CENTER);    
     rect(-25,-90,50,10);
-    if(this.life>40){
+    if(this.life>60){
     fill("#3DDA48");
     }
     else{
