@@ -415,7 +415,7 @@ function finish(){ //victory
     swal({  
         title: "Victory !!!",  
         text: "SCORE "+score, 
-        imageUrl: "https://cdn3.vectorstock.com/i/1000x1000/15/12/cartoon-green-zombie-outbreak-infection-emblem-vector-26771512.jpg",
+        imageUrl: "https://static.vecteezy.com/system/resources/previews/000/455/322/non_2x/a-zombie-holding-an-empty-signboard-vector.jpg",
         imageSize: "250x250", 
         showCancelButton: true,  
         confirmButtonClass: "btn-danger",  
@@ -439,7 +439,7 @@ function finish(){ //victory
     swal({  
         title: "Victory !!!",  
         text: "SCORE "+score, 
-        imageUrl: "https://cdn3.vectorstock.com/i/1000x1000/15/12/cartoon-green-zombie-outbreak-infection-emblem-vector-26771512.jpg",
+        imageUrl: "https://static.vecteezy.com/system/resources/previews/000/455/322/non_2x/a-zombie-holding-an-empty-signboard-vector.jpg",
         imageSize: "250x250", 
         confirmButtonText: "Back To Home",  
       },  
